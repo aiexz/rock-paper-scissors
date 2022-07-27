@@ -1,4 +1,4 @@
-# Rock Paper Scissors in Telegram using GOLANG
+# Rock Paper Scissors in Telegram using Go
 ## About
 Created for learning purposes. [@rockpsbot](https://t.me/rockpsbot)
 
