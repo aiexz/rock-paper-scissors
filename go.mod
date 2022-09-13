@@ -1,9 +1,9 @@
-module rock-paper-scissors-bot
+module github.com/aiexz/rock-paper-scissors
 
 go 1.18
 
 require (
-	gopkg.in/telebot.v3 v3.0.0
+	github.com/PaulSonOfLars/gotgbot/v2 v2.0.0-rc.10
 	gorm.io/driver/sqlite v1.3.6
 	gorm.io/gorm v1.23.8
 )
